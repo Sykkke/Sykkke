@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sykkke
-- 👀 I’m interested in web development and frameworks programming.
-- 🌱 I’m currently learning front-side development and web graphics.
-- 💞️ I’m looking to collaborate on web-based software developments.
+- 👀 I’m interested in software developement, web development and programming.
+- 🌱 I’m currently excelling at the algorithms.
+- 💞️ I’m looking to collaborate on software developments with a strong base in C++.
 - 📫 How to reach me robinkmishra2016@gmail.com
 
 <!---
